@@ -14,5 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=meggs-sol&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div>
+  <div align= "center">
+    
+[snake gif](https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg)
+    
+</div>
