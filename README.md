@@ -16,6 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=meggs-sol&icon=0&color=0)](https://visitcount.itsvg.in)
 
     
-[snake gif](https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg)
+![]([snake gif](https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg))
     
 
