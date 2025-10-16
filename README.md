@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi there, I'm Megha<br><br>💻 I’m a Front-End Developer focused on crafting sleek, responsive, and high-performance web applications. I’m passionate about turning design ideas into interactive, user-friendly interfaces using modern frontend frameworks.<br><br>🧠 Tech Stack<br><br>⚛️ React.js | ▲ Next.js | 🖖 Vue.js | 🅰️ Angular | 🎨 Tailwind CSS | 🅱️ Bootstrap<br><br>💬 About Me<br><br>🔭 I’m currently working on interactive web interfaces using React and Next.js.<br>🤝 I’m looking to collaborate on frontend development and UI/UX design projects.<br>🧩 I’m looking for help with advanced performance optimization in React-based apps.<br>🌱 I’m currently learning Vue.js, Angular, and TypeScript.<br>💬 Ask me about Tailwind CSS, Bootstrap, or building responsive modern UIs.<br>⚡ Fun fact: I believe great design is invisible — it just feels right.
-
+<div>
+    (https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meggscodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meghasharma0793@gmail.com) 
@@ -16,6 +18,5 @@
 [![](https://visitcount.itsvg.in/api?id=meggs-sol&icon=0&color=0)](https://visitcount.itsvg.in)
 
     
-![]([snake gif](https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg))
-    
+
 
