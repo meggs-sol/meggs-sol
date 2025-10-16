@@ -52,15 +52,15 @@ I’m passionate about turning design ideas into interactive, user-friendly inte
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=meggs-sol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=meggs-sol&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=meggs-sol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 
-![GitHub Snake Animation](https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg)
+<div align="center">
+  
+  ![GitHub Snake Animation](https://github.com/meggs-sol/meggs-sol/blob/output/github-snake-dark.svg)
+  
+</div>
 
 ---
 
